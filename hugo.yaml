@@ -7,13 +7,13 @@ menu:
   main:
     - identifier: home
       name: Home
-      url: /
-      weight: 1
-    - identifier: contact
-      name: Contact
-      url: /contact
-      weight: 3
+      pageRef: /
+      weight: 10
     - identifier: posts
       name: Posts
-      url: /posts
-      weight: 2
+      pageRef: /posts
+      weight: 20
+    - identifier: contact
+      name: Contact
+      pageRef: /contact
+      weight: 30
