@@ -1,7 +1,7 @@
 +++
 title = 'DevX Workgroup'
 date = 2024-07-03T22:00:05+02:00
-draft = true
+draft = false
 +++
 
 # DevX - Developer eXperience

@@ -1,7 +1,7 @@
 +++
 title = 'Contact'
 date = 2024-07-03T22:09:25+02:00
-draft = true
+draft = false
 +++
 
 The primary contact point is the mailing list of the working group: <TODO>

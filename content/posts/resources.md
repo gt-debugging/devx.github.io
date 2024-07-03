@@ -1,7 +1,7 @@
 +++
 title = 'Resources'
 date = 2024-07-03T22:26:38+02:00
-draft = true
+draft = false
 +++
 
 Here are a few links to start discussing what is developer experience:  
