@@ -1,0 +1,19 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: DevX Workgroup
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 3
+    - identifier: posts
+      name: Posts
+      url: /posts
+      weight: 2
