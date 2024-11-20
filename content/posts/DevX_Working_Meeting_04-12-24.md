@@ -1,7 +1,7 @@
 +++
 title = 'DevX Working Meeting - Dec. 4th, 2024'
 date = 2024-11-20T11:31:29+01:00
-draft = true
+draft = false
 +++
 
 # Program
