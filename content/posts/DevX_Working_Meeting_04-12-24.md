@@ -43,7 +43,7 @@ You can get there from the city center or the train-station by :
 | 10:45 | Synthétiser des formules pour (re)connecter le code et ses intentions | Frank Vedrine - CEA |
 | 11:00 | Extreme Test Driven Development | Steven Costiou - Inria/Evref |
 | 11:15 | Moldable Development with Glamorous Toolkit | Andrei Chis - Feenk |
-| 11:30 | Research activities on DevX @ LaBRI | Thomas Degueule - Labri/CNRS |
+| 11:30 | Research activities on DevX @ LaBRI | Thomas Degueule & Corentin Latappy - Labri/CNRS |
 | 11:45 | There is only one time in software engineering! | Benoit Combemale - IRISA/DiverSE |
 | 12:00 | Discussions and Wrap-up | |
 | **12:30** | **Lunch** | |
